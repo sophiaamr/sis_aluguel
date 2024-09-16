@@ -26,7 +26,7 @@ Este projeto foi desenvolvido utilizando uma combinação de tecnologias moderna
 ### Diagrama de Caso de Uso
 
 <div>
- <img src="docs/diagramas/Diagrama de Caso de Uso - LAB2.jpg" width="76%">
+ <img src="docs/diagramas/DiagramaDeCasoDeUsoV2.png" width="76%">
 </div>
 
 ### Diagrama de Classe

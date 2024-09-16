@@ -39,7 +39,7 @@ Este projeto foi desenvolvido utilizando uma combinação de tecnologias moderna
 
 ### Diagrama de Pacotes
 <div>
- <img src="docs/diagramas/Diagrama de Pacote - LAB2.png" width="76%">
+ <img src="docs/diagramas/DiagramaDePacoteV2Lab2.png" width="76%">
 </div>
 
 ### Diagrama de Componente
